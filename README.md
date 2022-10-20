@@ -29,7 +29,7 @@
 
 ## Reporting Tools
 ✅ HTML Report </br>
-✅ Microsoft Report(RDLC) </br>
+✅ Microsoft Report (RDLC) </br>
 ✅ Crystal Report </br>
 
 ## Source Control
