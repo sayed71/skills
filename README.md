@@ -28,9 +28,9 @@
 ✅ PSD to HTML </br>
 
 ## Reporting Tools
-✅ HTML Report </br>
+✅ SAP Crystal Report </br>
 ✅ Microsoft Report (RDLC) </br>
-✅ Crystal Report </br>
+✅ HTML Report </br>
 
 ## Source Control
 ✅ GitHub </br>
