@@ -7,20 +7,24 @@
 ✅ CodeIgniter </br>
 
 ## Database
-✅ MS SQL Server </br>
+✅ Microsoft SQL Server </br>
 ✅ Microsoft Access Database 2003 </br>
 ✅ MySQL </br>
 
 ## Frontend
-✅ HTML5 </br>
-✅ CSS3 </br>
 ✅ JavaScript </br>
 ✅ jQuery </br>
 ✅ jQuery UI </br>
+✅ jQuery Mobile </br>
 ✅ jQuery Datatables </br>
 ✅ Ajax </br>
 ✅ JSON </br>
+
+## Web Design
+✅ HTML </br>
+✅ CSS </br>
 ✅ Bootstrap </br>
+✅ PSD to HTML </br>
 
 ## Reporting Tools
 ✅ HTML Report </br>
@@ -30,3 +34,4 @@
 ## Source Control
 ✅ GitHub </br>
 ✅ GitLab </br>
+✅ Bitbucket </br>
