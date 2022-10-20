@@ -31,6 +31,7 @@
 ✅ SAP Crystal Report </br>
 ✅ Microsoft Report (RDLC) </br>
 ✅ HTML Report </br>
+✅ FPDF (PHP) </br>
 
 ## Source Control
 ✅ GitHub </br>
