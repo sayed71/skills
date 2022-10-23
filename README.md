@@ -17,7 +17,7 @@
 ✅ jQuery UI </br>
 ✅ jQuery Mobile </br>
 ✅ Easy UI </br>
-✅ jQuery Datatables </br>
+✅ jQuery DataTables </br>
 ✅ Ajax </br>
 ✅ JSON </br>
 
