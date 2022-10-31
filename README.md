@@ -19,9 +19,6 @@
 ✅ jQuery UI </br>
 ✅ jQuery Mobile </br>
 ✅ Easy UI </br>
-✅ jQuery DataTables </br>
-✅ Ajax </br>
-✅ JSON </br>
 
 ## Web Design
 ✅ HTML </br>
@@ -32,6 +29,7 @@
 ## Reporting Tools
 ✅ SAP Crystal Report </br>
 ✅ Microsoft Report (RDLC) </br>
+✅ MS Access - Report </br>
 ✅ HTML Report </br>
 ✅ FPDF (PHP) </br>
 
@@ -39,3 +37,9 @@
 ✅ GitHub </br>
 ✅ GitLab </br>
 ✅ Bitbucket </br>
+
+## Others
+✅ jQuery DataTables </br>
+✅ Ajax </br>
+✅ JSON </br>
+✅ XML </br>
