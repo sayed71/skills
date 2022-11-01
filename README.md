@@ -8,10 +8,8 @@
 
 ## Database
 ✅ Microsoft SQL Server Database</br>
-✅ ADO.NET </br>
 ✅ Microsoft Access Database 2003 </br>
 ✅ MySQL Database</br>
-✅ MySQL, MySQLi, PDO Driver </br>
 
 ## Frontend
 ✅ JavaScript </br>
