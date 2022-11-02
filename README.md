@@ -6,17 +6,14 @@
 ✅ PHP </br>
 ✅ CodeIgniter </br>
 
+## Frontend
+✅ JavaScript </br>
+✅ jQuery (jQuery UI, jQuery Mobile, Easy UI) </br>
+
 ## Database
 ✅ Microsoft SQL Server Database</br>
 ✅ Microsoft Access Database 2003 </br>
 ✅ MySQL Database</br>
-
-## Frontend
-✅ JavaScript </br>
-✅ jQuery </br>
-✅ jQuery UI </br>
-✅ jQuery Mobile </br>
-✅ Easy UI </br>
 
 ## Web Design
 ✅ HTML </br>
@@ -41,3 +38,5 @@
 ✅ Ajax </br>
 ✅ JSON </br>
 ✅ XML </br>
+✅ Treant.js (https://fperucic.github.io/treant-js) </br>
+✅ jQuery Charts & Graphs </br>
